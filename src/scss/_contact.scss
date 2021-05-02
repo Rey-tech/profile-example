@@ -1,9 +1,13 @@
 .contact-icons {
     display: flex;
     padding-left: 1em;
-    bo
+a{
+    display: block;
+    width: 100%;
+}
 
     img{
-        max-height: 4em;
+       height: 3em;
+        display: block;
     }
 }

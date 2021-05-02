@@ -918,6 +918,11 @@ body {
   display: flex;
   padding-left: 1em;
 }
-.contact-icons bo img {
-  max-height: 4em;
+.contact-icons a {
+  display: block;
+  width: 100%;
+}
+.contact-icons img {
+  height: 3em;
+  display: block;
 }
